@@ -1,18 +1,97 @@
-### Hello All Elevens and Brittanians 👋
-
-<!--
-**yuk4sh1-z3r0/yuk4sh1-z3r0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my discord bot!
-- 🌱 I’m currently learning JavaScript and Python.
-- 👯 I’m looking to collaborate on a number of different things like my upcoming Code Geass website
 
 
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
+
+
+
+
+<p align="left">
+  
+</p>
+
+<h3>Hello,my subordinates!.</h3>
+
+Here's my `Profile`:
+
+```toml
+
+[personal]
+name = 'Z3R0'
+city = 'Area 11'
+
+
+[occupation]
+currently-employed = false
+title = 'N/A'
+employer = 'N/A'
+
+[bio]
+categories = [
+  'general',
+]
+interests = [
+  'Drawing',
+  'Dancing',
+  'Web Development',
+]
+programming-languages = [
+  'JavaScript',
+  'python',
+  'unity',
+  'HTML/CSS'
+  ]
+  
+
+  
+  
+  
+  
+  
+
+
+
+
+```
+Feel free to contact me on Discord and/or Instagram!
+
+```toml
+[Website]
+site = ''
+```
+
+
+
+            
+
+  
+
+          
+
+          
+
+         
+
+           
+
+               
+
+ 
+
+          
+
+          
+
+           
+
+           
+
+               
+
+
+
+
+
