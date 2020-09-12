@@ -43,7 +43,7 @@ programming-languages = [
   'python',
   
   'HTML/CSS'
-  ]
+]
 game development = [
   'unity'
   'unreal engine'
