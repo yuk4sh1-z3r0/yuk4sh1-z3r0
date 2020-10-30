@@ -68,9 +68,9 @@ site = ''
 ```
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuk4sh1-z3r0&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
             
-
+![Z3R0's github stats](https://github-readme-stats.vercel.app/api?username=yuk4sh1-z3r0&show_icons=true&theme=dark)
   
 
           
